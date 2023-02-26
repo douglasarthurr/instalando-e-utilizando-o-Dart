@@ -2,7 +2,7 @@
 
 > ## Instalação
 
-    Para conseguirmos programar em Dart, primeiro devemos fazer a instalação do chocolatey.
+    Para conseguirmos programar em Dart, primeiro devemos fazer a instalação do gerenciador de pacotes chocolatey.
 
 - link do tutorial utilizado: <html> <a taget="_blank" href="https://docs.chocolatey.org/en-us/choco/setup#more-install-options">chocolatey</a> </html>.
 
@@ -128,11 +128,21 @@ Após isso para "rodar" o código temos duas opções: usar a própria ferrament
 ```
 
 ## Pronto! Com isso, temos o primeiro código em **"Dart"**.
-
+#
+**Obs: Isto é uma atividade escolar**
+#
 <html>
 <br/>
 <br/>
 </html>
+
+# Links utilizados
+
+- <a taget="_blank" href="https://docs.chocolatey.org/en-us/choco/setup#more-install-options"> Chocolatey </a>
+- <a taget="_blank" href="https://dart.dev/get-dart"> Dart </a>
+- <a taget="_blank" href="https://dart.dev/tools/vs-code" > Plugin Dart </a>
+
+
 
 # Autor
 
