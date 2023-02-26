@@ -129,6 +129,16 @@ Após isso para "rodar" o código temos duas opções: usar a própria ferrament
 
 ## Pronto! Com isso, temos o primeiro código em **"Dart"**.
 #
+>## Explixando o código
+
+- ### A função **main()** é o ponto de entrada do programa, ou seja, é o primeiro código a ser executado.
+
+- ### Dentro da função **main()**, temos a chamada da função **print()**, que é responsável por exibir uma mensagem na tela. Nesse caso, a mensagem é a *string* **"Hello World!!"**.
+
+- ### Ao executar o programa, a frase **"Hello World!!"** será exibida na tela, indicando que o código foi executado com **sucesso**.
+
+- ### Esse código é um dos exemplos mais simples e clássicos em programação, muito utilizado para testar se o tudo está configurado corretamente.
+
 **Obs: Isto é uma atividade escolar**
 #
 <html>
