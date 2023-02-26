@@ -136,7 +136,7 @@ Após isso para "rodar" o código temos duas opções: usar a própria ferrament
 
 - ## Ao executar o programa, a frase **"Hello World!!"** será exibida na tela, indicando que o código foi executado com **sucesso**.
 
-- ## Esse código é um dos exemplos mais simples e clássicos em programação, muito utilizado para testar se o tudo está configurado corretamente.
+- ## Esse código é um dos exemplos mais simples e clássicos em programação, muito utilizado para testar se tudo está configurado corretamente.
 
 **Obs: Isto é uma atividade escolar**
 #
