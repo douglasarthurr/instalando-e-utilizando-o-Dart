@@ -128,7 +128,7 @@ Após isso para "rodar" o código temos duas opções: usar a própria ferrament
 
 ## Pronto! Com isso, temos o primeiro código em **"Dart"**.
 #
-># Explixando o código
+># Explicando o código
 
 - ## A função **main()** é o ponto de entrada do programa, ou seja, é o primeiro código a ser executado.
 
