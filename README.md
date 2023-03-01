@@ -122,8 +122,8 @@ Após isso para "rodar" o código temos duas opções: usar a própria ferrament
 
   Basta abrir o terminal do próprio VS code e digitar o seguinte comando:
 
-```powershell
-    dart "Nome do arquivo".dart
+```
+    dart Nome do arquivo.dart
 ```
 
 ## Pronto! Com isso, temos o primeiro código em **"Dart"**.
